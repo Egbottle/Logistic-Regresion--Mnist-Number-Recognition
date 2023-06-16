@@ -1,4 +1,4 @@
-# Logistic-Regresion--Mnist-Number-Recognition
+# Logistic-Regression--Mnist-Number-Recognition
 Using TensorFlow recognizes the Mnist Dataset
 1. Load the data through tensorflow.keras(the train set and the test set have already processed).
 2. Normalization and one-hot encoding
